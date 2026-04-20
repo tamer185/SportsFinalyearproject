@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "lebanon-sports-frontend",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/admin", "destination": "/admin.html" }
+  ]
+}
